@@ -1,0 +1,32 @@
+.tbox {
+    background-color: rgb(19, 18, 18);
+    color: yellow;
+}
+
+.tmbox {
+    display: flex;
+    justify-content: center;
+    align-items: space-between;
+}
+
+
+.topline {
+    display:flex; 
+}
+
+.links {
+    display: flex;    
+   
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    color: yellow;
+    background-color: rgb(19, 18, 18)
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
